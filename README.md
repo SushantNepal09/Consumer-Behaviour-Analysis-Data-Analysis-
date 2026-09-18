@@ -1,10 +1,4 @@
-Absolutely. The original README is too generic for this project and contains a few things that don't match the actual work—for example, it describes multiple possible databases, while your project specifically uses **PostgreSQL**, and it calls the Python stage “modeling” even though the actual work is **EDA, cleaning, feature engineering, and database integration**.
-
-Based on your **project report, Power BI dashboard, presentation, problem statement, and deliverables**, I would rewrite it like this:
-
----
-
-# Customer Shopping Behavior Analysis
+ # Customer Shopping Behavior Analysis
 
 An end-to-end **Data Analytics project** analyzing 3,900 customer transactions to understand shopping behavior, spending patterns, customer segments, product performance, discounts, subscriptions, and shipping preferences.
 

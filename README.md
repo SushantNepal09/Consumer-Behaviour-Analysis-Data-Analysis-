@@ -66,7 +66,7 @@ The analysis aims to:
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 The dataset contains **3,900 customer purchase transactions and 18 columns**.
 

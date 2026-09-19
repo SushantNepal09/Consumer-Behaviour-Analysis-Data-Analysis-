@@ -9,7 +9,7 @@ The project uses **Python, PostgreSQL, SQL, and Power BI** to transform raw cust
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 A retail company wants to better understand its customers' shopping behavior to improve **sales, customer satisfaction, and long-term loyalty**.
 
@@ -49,7 +49,7 @@ The project analyzes **3,900 transactions across 18 fields** covering customer d
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 The analysis aims to:
 
@@ -99,7 +99,7 @@ The original dataset contained **37 missing values in the Review Rating column**
 
 ---
 
-# 🐍 1. Python — Data Preparation & Exploratory Analysis
+#  1. Python — Data Preparation & Exploratory Analysis
 
 Python was used as the first stage of the analytical workflow to understand, clean, and prepare the raw dataset.
 
@@ -147,7 +147,7 @@ The cleaned DataFrame was then loaded into **PostgreSQL** for structured SQL ana
 
 ---
 
-# 🗄️ 2. PostgreSQL & SQL Analysis
+#  2. PostgreSQL & SQL Analysis
 
 After cleaning, the dataset was integrated into **PostgreSQL** to perform structured business analysis.
 
@@ -203,7 +203,7 @@ Measure the contribution of different customer age groups to total revenue.
 
 ---
 
-# 👥 Customer Segmentation
+#  Customer Segmentation
 
 Customer purchase history was used to divide customers into three behavioral segments:
 
@@ -219,7 +219,7 @@ This segmentation provides a foundation for differentiated customer engagement a
 
 ---
 
-# 💰 Discount & Purchasing Behavior
+#  Discount & Purchasing Behavior
 
 The analysis examined whether discounts are being used primarily to encourage purchases or are also being applied to customers who already demonstrate strong purchasing behavior.
 
@@ -229,7 +229,7 @@ The analysis also identified a small group of products with a particularly high 
 
 ---
 
-# 🛍️ Product Analysis
+#  Product Analysis
 
 Product performance was examined using:
 
@@ -244,7 +244,7 @@ These products provide useful signals for merchandising and campaign positioning
 
 ---
 
-# 📦 Shipping Behavior
+#  Shipping Behavior
 
 Shipping type was analyzed to understand differences in customer spending behavior.
 
@@ -252,7 +252,7 @@ The analysis found that **average purchase amounts differ between Standard and E
 
 ---
 
-# 📊 3. Power BI Dashboard
+#  3. Power BI Dashboard
 
 The SQL analysis was transformed into an interactive **Power BI dashboard** that allows stakeholders to explore customer shopping behavior visually.
 
@@ -290,7 +290,7 @@ The dashboard brings spending, customer segments, product performance, and behav
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 The combined Python, SQL, and Power BI analysis produced several important findings.
 
@@ -316,7 +316,7 @@ Revenue was analyzed across different age groups to identify the customer cohort
 
 ---
 
-# 🎯 Business Recommendations
+#  Business Recommendations
 
 Based on the analysis, the project proposes five strategic actions:
 
@@ -344,7 +344,7 @@ These recommendations are derived from the project's SQL findings and dashboard 
 
 ---
 
-# 📑 4. Project Report
+#  4. Project Report
 
 A detailed project report documents the complete analytical process, including:
 
@@ -360,7 +360,7 @@ A detailed project report documents the complete analytical process, including:
 
 ---
 
-# 🎨 5. Presentation
+#  5. Presentation
 
 The project findings were summarized into a presentation designed to communicate the analysis to a business/leadership audience.
 
@@ -382,7 +382,7 @@ The presentation frames the analysis around turning **3,900 transactions into ac
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Technology     | Purpose                                  |
 | -------------- | ---------------------------------------- |
@@ -398,7 +398,7 @@ The presentation frames the analysis around turning **3,900 transactions into ac
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 Customer-Shopping-Behavior-Analysis/
@@ -429,7 +429,7 @@ The repository contains the analytical code, SQL queries, Power BI dashboard, pr
 
 ---
 
-# 🔄 End-to-End Workflow
+#  End-to-End Workflow
 
 ```text
                  RAW DATA
@@ -479,7 +479,7 @@ The repository contains the analytical code, SQL queries, Power BI dashboard, pr
 
 ---
 
-# 📌 Project Deliverables
+#  Project Deliverables
 
 The completed project includes:
 
@@ -496,7 +496,7 @@ The intended deliverables explicitly include Python data preparation/modeling, S
 
 ---
 
-# 🎯 What This Project Demonstrates
+#  What This Project Demonstrates
 
 This project demonstrates practical ability to:
 
@@ -515,7 +515,7 @@ This project demonstrates practical ability to:
 
 ---
 
-# 👤 Author
+#  Author
 
 **Sushant Nepal**
 
@@ -523,7 +523,7 @@ Computer Science Student | Data Analytics & Machine Learning Enthusiast
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates a complete **end-to-end data analytics workflow**, starting with raw customer transaction data and progressing through Python-based preparation, PostgreSQL analysis, SQL business questions, Power BI visualization, and final business recommendations.
 

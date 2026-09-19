@@ -519,7 +519,7 @@ This project demonstrates practical ability to:
 
 **Sushant Nepal**
 
-Computer Science Student | Data Analytics & Machine Learning Enthusiast
+Computer Science Student 
 
 ---
 
